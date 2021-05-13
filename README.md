@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shantanu</h1>
-<h3 align="center">Hello I'm Shantanu currently pursuing my bachelor's degree in Computer Science and Engineering and I am a python enthusiastic</h3>
+<h3 align="center">Hello I'm Shantanu currently pursuing my bachelor's degree in Computer Science and Engineering and I am a python enthusiastic.</h3>
 
-- 🌱 I’m currently learning **Django,flask**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu1905&label=Profile%20views&color=0e75b6&style=flat" alt="shantanu1905" /> </p>
 
-- 👨‍💻 All of my projects are available at [shantanunimkar.pythonanywhere.com](shantanunimkar.pythonanywhere.com)
+- My Portfolio website [https://shantanunimkar.pythonanywhere.com](https://shantanunimkar.pythonanywhere.com)
 
-- 📝 My articles [shantanunimkar.pythonanywhere.com/writes](shantanunimkar.pythonanywhere.com/writes)
+- 📝 My articles [https://shantanunimkar.pythonanywhere.com/writes](https://shantanunimkar.pythonanywhere.com/writes)
 
 - 📫 Reach me out! **snimkar1905@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shantanu1905" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shantanu1905" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shantanu nimkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="shantanu nimkar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/snimkar1905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="snimkar1905" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
