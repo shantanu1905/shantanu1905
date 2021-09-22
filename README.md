@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu1905&label=Profile%20views&color=0e75b6&style=flat" alt="shantanu1905" /> </p>
 
-- My Portfolio website [https://shantanunimkar.pythonanywhere.com](https://shantanunimkar.pythonanywhere.com)
+- My Portfolio website [https://shantanunimkar.herokuapp.com/](https://shantanunimkar.herokuapp.com)
 
-- 📝 My articles [https://shantanunimkar.pythonanywhere.com/writes](https://shantanunimkar.pythonanywhere.com/writes)
+- 📝 My articles [https://shantanunimkar.herokuapp.com/writes](https://shantanunimkar.herokuapp.com/writes)
 
 - 📫 Reach me out! **snimkar1905@gmail.com**
 
