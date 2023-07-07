@@ -5,7 +5,7 @@
 
 - My Portfolio website [https://shantanunimkar.herokuapp.com/](https://shantanunimkar.herokuapp.com)
 
-- 📝 My articles [https://shantanunimkar.herokuapp.com/writes](https://shantanunimkar.herokuapp.com/writes)
+- 📝 My Blogs [https://shantanunimkar.hashnode.dev/](https://shantanunimkar.hashnode.dev/)
 
 - 📫 Reach me out! **snimkar1905@gmail.com**
 
